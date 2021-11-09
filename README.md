@@ -14,6 +14,6 @@
 
 **Now we have to raise the project and check how everything works.**
 ```./evil.sh```
- **NEXT**
+ **and**
 ```./ddos.sh```
 
