@@ -13,9 +13,7 @@
 ```chmod +x ddos.sh```
 
 **Now we have to raise the project and check how everything works.**
-```
-./evil.sh
-
-./ddos.sh
-```
+```./evil.sh```
+ **NEXT**
+```./ddos.sh```
 
