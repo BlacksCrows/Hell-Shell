@@ -3,4 +3,19 @@
 [![GitHub forks](https://img.shields.io/github/forks/BlacksCrows/Hell-Shell.svg)](https://github.com/BlacksCrows/Hell-Shell/network)
 [![GitHub stars](https://img.shields.io/github/stars/BlacksCrows/Hell-Shell.svg)](https://github.com/BlacksCrows/Hell-Shell/stargazers)
 
+##SHELL-CRACK
+**First, let's make the permissions to files and directories used in Unix**
+
+```chmod +x evils.sh```
+
+**and the next file**
+
+```chmod +x ddos.sh```
+
+**Now we have to raise the project and check how everything works.**
+```
+./evil.sh
+
+./ddos.sh
+```
 
